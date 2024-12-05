@@ -12,10 +12,11 @@ Por favor, descreva as mudanças que foram feitas neste pull request. Se possív
 
 ## Issue Relacionada
 
-Por favor, inclua o número da issue e o link para a issue relacionada:
+Se quiser fechar uma issue, escreva nesse padrão:
+- closes #<numero_da_issue>
 
-- Issue número: #<número da issue>
-- Link para a issue: [link para a issue](URL)
+Se quiser relacionar uma issue, escreva nesse padrão:
+- Issue #<numero_da_issue>
 
 ## Como isso foi testado?
 
