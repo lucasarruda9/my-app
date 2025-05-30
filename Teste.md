@@ -25,7 +25,7 @@
 - **Requisito Funcional Relacionado:** RF41
 
 ### Estimativa de Esforço
-- **Prioridade:** Alta
+- **Prioridade:** MH
 
 ---
 
@@ -55,7 +55,7 @@
 - **Requisito Funcional Relacionado:** RF42
 
 ### Estimativa de Esforço
-- **Prioridade:** Média
+- **Prioridade:** SH
 
 ---
 
@@ -84,7 +84,7 @@
 - **Requisito Funcional Relacionado:** RF39
 
 ### Estimativa de Esforço
-- **Prioridade:** Média
+- **Prioridade:** MH
 
 ---
 
@@ -114,7 +114,7 @@
 - **Requisito Funcional Relacionado:** RF40
 
 ### Estimativa de Esforço
-- **Prioridade:** Média
+- **Prioridade:** MH
 
 ---
 
@@ -144,7 +144,7 @@
 - **Requisito Funcional Relacionado:** RF24
 
 ### Estimativa de Esforço
-- **Prioridade:** Média
+- **Prioridade:** MH
 
 ---
 
@@ -174,7 +174,7 @@
 - **Requisito Funcional Relacionado:** RF17
 
 ### Estimativa de Esforço
-- **Prioridade:** Alta
+- **Prioridade:** SH
 
 ---
 
@@ -203,4 +203,4 @@
 - **Requisito Não Funcional Relacionado:** RNF23
 
 ### Estimativa de Esforço
-- **Prioridade:** Alta
+- **Prioridade:** MH
