@@ -1,9 +1,11 @@
 
 ## História de usuário - RF41: Acompanhar histórico de interações
 
+### Título: Acompanhar histórico de interações
+
 ### História
 
-**Como** um cidadão usuário do aplicativo,  
+**Como** um cidadão do Distrito Federal e usuário do aplicativo,  
 **Eu quero** visualizar meu histórico de interações, solicitações e agendamentos,  
 **Para que** eu possa acompanhar e revisar tudo o que já realizei no app de forma organizada.
 
@@ -29,9 +31,11 @@
 
 ## História de usuário - RF42: Acesso a notícias oficiais do GDF
 
+### Título: Acesso a notícias oficiais do GDF
+
 ### História
 
-**Como** um cidadão usuário do aplicativo,  
+**Como** um cidadão do Distrito Federal e usuário do aplicativo,  
 **Eu quero** ter acesso a um feed com notícias oficiais e atualizadas do Governo do Distrito Federal,  
 **Para que** eu possa me manter informado sobre assuntos públicos e decisões governamentais.
 
@@ -57,9 +61,11 @@
 
 ## História de usuário - RF39: Agendar serviços sociais
 
+### Título: Agendar serviços sociais
+
 ### História
 
-**Como** um cidadão usuário do aplicativo,  
+**Como** um cidadão do Distrito Federal e usuário do aplicativo,  
 **Eu quero** poder agendar atendimentos de serviços socias,  
 **Para que** eu consiga ter acesso aos serviços públicos do DF de forma simples e organizada.
 
@@ -83,6 +89,8 @@
 ---
 
 ## História de usuário - RF40: Emitir tributos, certidões e documentos fiscais
+
+### Título: Emitir tributos, certidões e documentos fiscais
 
 ### História
 
@@ -112,6 +120,8 @@
 
 ## História de usuário - RF24: Acompanhar pendências educacionais
 
+### Título: Acompanhar pendências educacionais
+
 ### História
 
 **Como** um aluno ou professor da rede pública do distrito federal,  
@@ -140,9 +150,11 @@
 
 ## Histórias de usuário - RF17: Receber notificações categorizadas
 
+### Título: Receber notificações categorizadas
+
 ### História
 
-**Como** um cidadão usuário do app,  
+**Como** um cidadão do Distrito Federal e usuário do app,  
 **Eu quero** receber notificações por categorias como saúde, educação e transporte,  
 **Para que** eu possa me manter informado sobre assuntos relevantes para mim de forma simples e rápida.
 
@@ -166,11 +178,13 @@
 
 ---
 
-## História de usuário - RNF23: Consulta de registros offline
+## História de usuário - RNF23: Consultar registros sem conexão com a internet
+
+### Título: Consultar registros sem conexão com a internet
 
 ### História
 
-**Como** um cidadão com acesso limitado à internet,  
+**Como** um cidadão do Distrito Federal e com acesso limitado à internet,  
 **Eu quero** consultar registros ou informações acessadas anteriormente sem precisar de conexão com a internet,  
 **Para que** eu possa usar o aplicativo mesmo sem conexão com a internet.
 
